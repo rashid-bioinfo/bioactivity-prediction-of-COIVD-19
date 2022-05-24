@@ -1,0 +1,1 @@
+/home/rashid/Downloads/jre-8u333-linux-x64/jre1.8.0_333/bin/java -Xms1G -Xmx1G -Djava.awt.headless=true -jar ./PaDEL-Descriptor/PaDEL-Descriptor.jar -removesalt -standardizenitro -fingerprints -descriptortypes ./PaDEL-Descriptor/PubchemFingerprinter.xml -dir ./ -file descriptors_output.csv
